@@ -1,0 +1,15 @@
+G:\SoftUni-C#-Advanced\Functional Programming\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.exe
+G:\SoftUni-C#-Advanced\Functional Programming\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.deps.json
+G:\SoftUni-C#-Advanced\Functional Programming\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.runtimeconfig.json
+G:\SoftUni-C#-Advanced\Functional Programming\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.dll
+G:\SoftUni-C#-Advanced\Functional Programming\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.pdb
+G:\SoftUni-C#-Advanced\Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.csproj.AssemblyReference.cache
+G:\SoftUni-C#-Advanced\Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.GeneratedMSBuildEditorConfig.editorconfig
+G:\SoftUni-C#-Advanced\Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.AssemblyInfoInputs.cache
+G:\SoftUni-C#-Advanced\Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.AssemblyInfo.cs
+G:\SoftUni-C#-Advanced\Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+G:\SoftUni-C#-Advanced\Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.dll
+G:\SoftUni-C#-Advanced\Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\refint\03. Count Uppercase Words.dll
+G:\SoftUni-C#-Advanced\Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.pdb
+G:\SoftUni-C#-Advanced\Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.genruntimeconfig.cache
+G:\SoftUni-C#-Advanced\Functional Programming\03. Count Uppercase Words\obj\Debug\net6.0\ref\03. Count Uppercase Words.dll
